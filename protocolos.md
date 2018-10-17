@@ -48,3 +48,23 @@ Os seguintes Protocolos Principais são compostos por compromissos e protocolos.
   - Oferecerei e aceitarei o uso oportuno e adequado do protocolo de verificação de protocolo sem preconceito.
 10. Não prejudicarei - nem tolerarei que alguém prejudique - ninguém por sua fidelidade a estes compromissos.
 11. Eu nunca farei nada idiota de propósito.
+
+## Passar (Despassar)
+
+O protocolo Passar é como você se recusa a participar de algo. Use-o sempre que não quiser participar de uma atividade.
+
+**Passos**
+1. Quando você decidir não participar, diga "Eu passo. "
+2. "Despasse" a qualquer momento que você desejar. Despasse assim que você quiser participar novamente dizendo “Eu despasso. "
+
+**Compromissos**
+- Mantenha as suas razões para passar em particular.
+- Passe assim que você estiver consciente de que vai passar.
+- Respeite o direito dos outros de passar sem explicação.
+- Apoie aqueles que passam sem discutir com eles ou o ato de passar.
+. Não julgue, envergonhe, incomode, interrogue ou puna quem passar.
+
+**Notas**
+- Em geral, você não estará em situação regular com seus Compromissos Básicos se você passar a maior parte do tempo.
+- Você pode passar qualquer atividade; No entanto, se você tiver adotado os Compromissos Básicos, não poderá passar uma votação para a Decisão e deverá informar "Estou dentro" ao fazer o check-in.
+- Você pode passar mesmo que você já tenha começado alguma coisa.
