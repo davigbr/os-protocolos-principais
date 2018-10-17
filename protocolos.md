@@ -65,17 +65,17 @@ O protocolo Passar é como você se recusa a participar de algo. Use-o sempre qu
 - Não julgue, envergonhe, incomode, interrogue ou puna quem passar.
 
 **Notas**
-- Em geral, você não estará em situação regular com seus Compromissos Básicos se você passar a maior parte do tempo.
-- Você pode passar qualquer atividade; No entanto, se você tiver adotado os Compromissos Básicos, não poderá passar uma votação para a Decisão e deverá informar "Estou dentro" ao fazer o check-in.
+- Em geral, você não estará em situação regular com seus Compromissos Principais se você passar a maior parte do tempo.
+- Você pode passar qualquer atividade; No entanto, se você tiver adotado os Compromissos Principais, não poderá passar uma votação para a Decisão e deverá informar "Estou dentro" ao fazer o check-in.
 - Você pode passar mesmo que você já tenha começado alguma coisa.
 
 ## Check-In
 Use o Check-In para começar reuniões ou em qualquer momento que um Check-In individual ou em grupo puder adicionar mais valor às interações atuais do time.
 
 **Passos**
-- O orador diz: “Eu me sinto [um ou mais de BRAVO, TRISTE, FELIZ, RECEOSO].” O orador pode fornecer uma breve explicação. Ou, caso outras pessoas já tenham feito o check-in, o orador pode dizer “Eu passo”. (Veja o protocolo [Passar](#passar-despassar)).
-- O orador diz "Estou dentro". Isso significa que o orador pretende se comportar de acordo com os Compromissos Principais.
-- Os ouvintes respondem: "Bem-vindo(a)".
+1. O orador diz: “Eu me sinto [um ou mais de BRAVO, TRISTE, FELIZ, RECEOSO].” O orador pode fornecer uma breve explicação. Ou, caso outras pessoas já tenham feito o check-in, o orador pode dizer “Eu passo”. (Veja o protocolo [Passar](#passar-despassar)).
+2. O orador diz "Estou dentro". Isso significa que o orador pretende se comportar de acordo com os Compromissos Principais.
+3. Os ouvintes respondem: "Bem-vindo(a)".
 
 **Compromissos**
 - Declare sentimentos sem qualificação.
@@ -89,3 +89,23 @@ Use o Check-In para começar reuniões ou em qualquer momento que um Check-In in
 - Não faça nada para diminuir seu estado emocional. Não se descreva como um pouco BRAVO, TRISTE, FELIZ, RECEOSO. Por exemplo, não diga "Estou BRAVO, mas ainda estou FELIZ".
 - Exceto em grandes grupos, se mais de uma pessoa fizer check-in, é recomendável que todos façam isso.
 - Contente pode ser substituído por FELIZ e com medo pode ser substituído por RECEOSO.
+
+## Check-Out
+
+ Check-out exige que sua presença física sempre signifique seu envolvimento. Você deve fazer o check-out quando estiver ciente de que não pode manter Os Compromissos Principais ou sempre que for melhor para você estar em outro lugar.
+
+**Passos**
+1. Diga "estou saindo".
+2. Deixe o grupo fisicamente até que você esteja pronto para fazer o check-in novamente.
+3. Opcionalmente, se for conhecido e relevante, você poderá dizer quando acredita que retornará.
+4. Aqueles que estão presentes para o check-out não podem seguir a pessoa, falar com ou sobre a pessoa que faz check-out, ou de outra forma persegui-la.
+
+**Compromissos**
+- Retorne assim que puder e conseguir manter os Compromissos Principais.
+- Retorne e faça check-in sem chamar a atenção indevidamente para o seu retorno.
+- Não julgue, envergonhe, incomode, interrogue ou puna quem fizer check-out.
+
+**Notas**
+- Quando você fizer o check-out, faça-o da forma mais calma e graciosa possível, de modo a causar o mínimo de transtorno aos outros.
+- Confira se seu estado emocional está atrapalhando seu sucesso, se sua receptividade a novas informações é muito baixa ou se você não sabe o que quer.
+- Check-out é uma admissão de que você não pode contribuir no momento.
