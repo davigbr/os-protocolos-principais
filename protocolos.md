@@ -138,3 +138,33 @@ O protocolo Pedir Ajuda permite que você faça uso eficiente das habilidades e 
 - Se você não entende o valor do que é oferecido, ou acha que não seria útil, ou acredita que você rejeitou a ideia oferecida anteriormente, assuma uma postura curiosa em vez de reagir instintivamente com um "Mas..." (Veja o protocolo [Investigar](#investigar).)
 - Pedir ajuda em tempos de problemas significa que você esperou muito para pedir ajuda. Peça ajuda quando estiver tudo bem.
 - Simplesmente conectar-se a alguém, mesmo que ele ou ela não saiba nada sobre o assunto em que você precisa de ajuda, pode ajudá-lo a encontrar respostas dentro de si mesmo, especialmente se você pedir a essa pessoa para investigar você.
+
+## Verificar Protocolo
+
+Use Verificar Protocolo quando você acredita que um protocolo está sendo usado incorretamente ou quando um Compromisso Principal está sendo quebrado.
+
+**Passos**
+1. Diga "Verificar Protocolo".
+2. Se você souber o uso correto do protocolo, diga-o. Se você não souber, use pedir ajuda.
+
+**Compromissos**
+- Diga "Verificar Protocolo" assim que você tomar conhecimento do uso incorreto de um protocolo ou de um Compromisso Principal quebrado. Faça isso independentemente da atividade atual.
+- Apoie qualquer pessoa usando o verificar protocolo.
+- Não envergonhe ou puna ninguém usando o verificar protocolo.
+- Peça ajuda assim que perceber que você não tem certeza do uso correto do protocolo.
+
+## Verificar Intenção
+Use Verificar Intenção para esclarecer o propósito do seu próprio comportamento ou de outro. Use-o quando não estiver esperando um resultado positivo resultante do comportamento atual. A Verificação de Intenção avalia a integridade da sua própria intenção e de outra em um determinado caso.
+
+**Passos**
+1. Pergunte “Qual é a sua/minha intenção com X?”, onde X é igual a algum tipo de comportamento real ou pendente para a pessoa cuja intenção você quer saber.
+2. Se for útil, pergunte: "Qual resposta ou comportamento você queria de quem, como X?"
+
+**Compromissos**
+- Esteja ciente de sua própria intenção antes de verificar a intenção de outro.
+- Investigue o suficiente para descobrir a intenção da pessoa ou de suas ações.
+- Certifique-se de que você tem a intenção de resolver qualquer possível conflito pacificamente antes de verificar a intenção de outra pessoa. Se você não tem uma intenção pacífica, faça check-out.
+- Não fique na defensiva quando alguém lhe perguntar qual é a sua intenção. Se você não puder fazer isso, faça check-out.
+
+**Notas**
+- Se surgir um conflito que pareça insolúvel, faça check-out e peça ajuda.
