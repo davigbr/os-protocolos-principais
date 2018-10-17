@@ -109,3 +109,32 @@ Use o Check-In para começar reuniões ou em qualquer momento que um Check-In in
 - Quando você fizer o check-out, faça-o da forma mais calma e graciosa possível, de modo a causar o mínimo de transtorno aos outros.
 - Confira se seu estado emocional está atrapalhando seu sucesso, se sua receptividade a novas informações é muito baixa ou se você não sabe o que quer.
 - Check-out é uma admissão de que você não pode contribuir no momento.
+
+## Pedir ajuda
+
+O protocolo Pedir Ajuda permite que você faça uso eficiente das habilidades e conhecimentos dos outros. Pedir ajuda é o ato que catalisa a conexão e a visão compartilhada. Use-o continuamente, antes e durante a busca de qualquer resultado.
+
+**Passos**
+1. O inquiridor pergunta para outro, "[nome do ajudante], você poderia fazer X?"
+2. O inquiridor expressa quaisquer detalhes ou restrições da solicitação.
+3. O ajudante responde dizendo "Sim" ou "Não" ou oferecendo uma forma alternativa de ajuda.
+
+**Compromissos**
+- Sempre invoque o protocolo pedir ajuda com a frase "Você poderia... ?"
+- Tenha uma compreensão clara do que você quer do ajudante ou, se você não tiver um entendimento claro da ajuda que deseja, sinalize isso dizendo "Não tenho certeza sobre o que preciso de ajuda, mas você pode me ajudar?"
+- Suponha que todos os ajudantes estejam sempre disponíveis e confie que qualquer ajudante aceita a responsabilidade de dizer “Não”.
+- Diga "Não" sempre que não quiser ajudar.
+- Aceite a resposta “Não” sem qualquer pergunta ou drama emocional.
+- Seja receptivo da ajuda oferecida.
+- Ofereça sua melhor ajuda, mesmo que não seja o que o solicitante está esperando.
+- Adie a solicitação de ajuda se você não puder se envolver totalmente.
+- Solicite mais informações se você não tiver certeza sobre as especificidades da solicitação de ajuda.
+- Não se desculpe por pedir ajuda.
+
+**Notas**
+- Pedir ajuda é um empreendimento de baixo custo. O pior resultado possível é um "não", que não deixa você mais à frente ou atrás do que quando pediu ajuda. No melhor resultado possível, você reduz o tempo necessário para realizar uma tarefa e/ou aprender.
+- Os ajudantes devem dizer "Não" se não tiverem certeza se querem ajudar. Eles não devem dizer mais nada depois de recusar um pedido de ajuda.
+- Você não pode “pedir demais” a uma determinada pessoa por ajuda, a menos que ela tenha pedido a você que respeite um limite específico.
+- Se você não entende o valor do que é oferecido, ou acha que não seria útil, ou acredita que você rejeitou a ideia oferecida anteriormente, assuma uma postura curiosa em vez de reagir instintivamente com um "Mas..." (Veja o protocolo [Investigar](#investigar).)
+- Pedir ajuda em tempos de problemas significa que você esperou muito para pedir ajuda. Peça ajuda quando estiver tudo bem.
+- Simplesmente conectar-se a alguém, mesmo que ele ou ela não saiba nada sobre o assunto em que você precisa de ajuda, pode ajudá-lo a encontrar respostas dentro de si mesmo, especialmente se você pedir a essa pessoa para investigar você.
