@@ -199,7 +199,7 @@ Use Decider sempre que quiser mover um grupo imediatamente e por unanimidade em 
 - Use sua capacidade de "interromper o programa" declarando que você "não entrará nunca" com grande discrição e com a menor frequência possível.
 - Insista em todos os momentos que os protocolos decidir e resolver sejam seguidos exatamente conforme a especificação, independentemente de quantas vezes você se encontra fazendo a insistência.
 - Não passe durante um decidir.
-- Incansavelmente trabalhe em direção a gerar *impulso para frente*; tenha um viés em relação à ação.
+- Incansavelmente trabalhe em direção a gerar *impulso para frente*; tenha um viés em direção à ação.
 - Não olhe como os outros estão votando para escolher seu próprio voto.
 - Evite usar o decidir em grandes grupos. Divida em pequenos subgrupos para tomar decisões e use o grupo grande para relatar o status.
 
@@ -210,3 +210,69 @@ Use Decider sempre que quiser mover um grupo imediatamente e por unanimidade em 
 - Retire propostas fracas. Se uma proposta recebe menos de 70% (aproximadamente) de votos Sim, ela é uma proposta fraca e deve ser retirada pelo proponente. Esta decisão é, no entanto, a critério do proponente.
 - Pense em si mesmo como um possível caso isolado a cada vez que você votar Não.
 - Vote com um Não absoluto somente quando você estiver convencido de que você tem uma contribuição significativa para fazer na direção ou liderança do grupo, ou quando a integridade absolutamente exige isso de você.
+
+## Decidir
+
+Use decidir sempre que quiser mover um grupo imediatamente e por unanimidade em direção aos resultados.
+
+**Passos**
+1. Proponente diz: "Eu proponho [comportamento conciso e acionável]".
+2. O proponente diz "1-2-3".
+3. Os eleitores, usando Sim (polegares para cima), Não (polegares para baixo) ou Apoio (mão espalmada), votam simultaneamente com outros eleitores.
+4. Os eleitores que absolutamente não podem entrar na proposta declaram-se dizendo “Eu sou um não absoluto. Eu não vou entrar ”. Se isso ocorrer, a proposta será retirada.
+5. O proponente conta os votos.
+6. O proponente retira a proposta se uma combinação de outliers (votos não) e votos de apoio for muito grande ou se o proponente espera não concluir com êxito a resolução (abaixo). Você pode aproximar "muito bom" usando as seguintes estatísticas:
+ - aproximadamente 50% (ou mais) dos votos são Apoio, OU
+ - o ganho antecipado se a proposta passar for menor que o custo provável do esforço de resolver;
+7. O proponente usa o protocolo resolver com cada outlier para trazê-lo para ap roposta, perguntando: "O que é necessário para você entrar?"
+8. O proponente declara que a proposta foi concluída se todos os outliers alterarem seus votos para Sim ou Apoio.
+9. A equipe agora está comprometida com o resultado proposto.
+
+**Compromissos**
+
+- Proponha não mais que um item por proposta
+- Permaneça presente até que o protocolo decidir esteja completo; permaneça sempre ciente de como o seu comportamento move o grupo para frente ou diminui a sua velocidade;
+- Dê toda a atenção a uma proposta, acima de todas as outras atividades.
+- Fale somente quando você é o proponente ou é direcionado para falar pelo proponente.
+- Mantenha as razões do seu voto privadas durante o protocolo.
+- Revele imediatamente quando você é um não absoluto e esteja pronto para propor uma idéia melhor.
+- Seja pessoalmente responsável por alcançar os resultados de um compromisso com o decidir, mesmo que tenha sido feito na sua ausência.
+- Mantenha-se informado sobre os compromissos do decidir feitos na sua ausência.
+- Não discuta com um não absoluto. Sempre peça a ele uma ideia melhor.
+- Apoie ativamente as decisões alcançadas.
+- Use sua capacidade de "interromper o programa" declarando que você "não entrará em qualquer situação" com grande discrição e com a menor frequência possível.
+- Insista em todos os momentos que os protocolos decidir e resolver mão sejam seguidos exatamente conforme a especificação, independentemente de quantas vezes você se encontra fazendo essa insistência.
+- Não passe durante um decidir.
+- Incansavelmente, trabalhe em direção ao *impulso para frente*; tenha um viés em direção à ação.
+- Não olhe como os outros estão votando para escolher seu próprio voto.
+- Evite usar o decidir em grandes grupos. Divida em pequenos subgrupos para tomar decisões e use o grupo grande para relatar o status.
+
+**Notas**
+
+- Vote não somente quando você realmente acredita que a contribuição para o avanço que você fará para o grupo após desacelerar ou parar na votação atual irá superar em muito os custos (geralmente consideráveis) que você está somando pelo voto Não.
+- Se você não tiver certeza ou estiver confuso com uma proposta, dê suporte e peça esclarecimentos por fora após a resolução da proposta. Se você tiver uma proposta alternativa depois de receber mais informações, poderá ter a certeza de que sua equipe apoiará a melhor ideia. (Veja “Os Compromissos Principais)
+- Votar não para fazer pequenas melhorias em uma proposta que é aceitável diminui o *impulso para frente* e deve ser evitado. Em vez disso, ofereça uma proposta adicional depois da aprovação atual ou, melhor ainda, envolva-se na implementação para garantir que sua ideia seja incluída.
+- Retire propostas fracas. Se uma proposta recebe menos de setenta por cento (aproximadamente) de votos sim, é uma proposta fraca e deve ser retirada pelo proponente. Esta decisão é, no entanto, a critério do proponente.
+- Pense em si mesmo como um possível caso isolado a cada vez que você votar não.
+Vote absolutamente não somente quando você está convencido de que você tem uma contribuição significativa para fazer na direção ou liderança do grupo, ou quando a integridade absolutamente exige isso de você.
+
+## Resolver
+
+Quando um voto de decisão gera uma pequena minoria de outliers, o proponente lidera rapidamente a equipe, de maneira altamente estruturada, para lidar com os outliers. O protocolo resolver promove o *impulso para frente*, concentrando-se em trazer outliers pelo menor custo.
+
+**Passos**
+
+1. Proponente pergunta ao outlier "O que é necessário para você entrar?"
+2. O outlier declara em uma sentença única, curta e declarativa a modificação precisa necessária na proposta para entrar nela.
+3. O proponente se oferece para adotar as alterações do outlier ou retirar a proposta.
+
+**Notas**
+- Se as alterações dos outliers forem simples, uma simples verificação de olhares poderá ser realizada para determinar se todos ainda estão na proposta.
+- Se as alterações dos outliers forem complexas, o proponente deverá retirar a proposta atual e, em seguida, enviar uma nova proposta que incorpore as alterações dos valores discrepantes.
+- Se o outlier começar a dizer por que ele votou não ou parar para explicar qualquer outra coisa além do que é necessário para consegui-lo entrar na proposta, o proponente deve interromper o outlier perguntando "O que será necessário para você entrar?"
+
+## Jogo da Perfeição
+
+## Alinhamento Pessoal
+
+## Investigar
